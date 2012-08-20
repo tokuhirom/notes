@@ -1,0 +1,11 @@
+node.js
+=======
+
+good libraries
+--------------
+
+  * https://github.com/substack/node-optimist
+    * good argv operation library
+  * http://expressjs.com/
+    * web application framework
+
