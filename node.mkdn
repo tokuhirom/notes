@@ -8,4 +8,24 @@ good libraries
     * good argv operation library
   * http://expressjs.com/
     * web application framework
+  * https://github.com/maritz/node-sprintf
+    * sprintf
+  * https://github.com/cho45/micro-location.js
+    * URI object
 
+globbing
+--------
+
+There is some libraries to globbing files.
+
+  * glob-whatev
+  * glob
+
+lingua ja
+---------
+
+### hanzenkaku
+
+https://github.com/dankogai/js-hanzenkaku
+
+zenkaku/hankaku operation library by dankogai
